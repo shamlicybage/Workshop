@@ -1,0 +1,41 @@
+.divs{
+    float:left;
+    margin:10px
+    
+}
+
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+  
+}
+
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.orange{
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+
+}
+
+#allShow{
+    display: none;
+}
+button{
+    background-color: grey;
+    font-weight:bolder;
+    color: white;
+
+}
