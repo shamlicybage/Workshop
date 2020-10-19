@@ -20,6 +20,7 @@ $(document).ready(()=>{
         $(".orange").hide();
         $(".yellow").hide();
         $(".redB").css("backgroundColor","lightgreen");
+       //$(".redB").addClass("green")
     });
 
     $("#yellowB").click(()=>{
@@ -33,6 +34,7 @@ $(document).ready(()=>{
         $(".orange").hide();
         
         $("#yellowB").css("backgroundColor","lightgreen");
+       // $("#yellowB").addClass("green")
     });
 
     $("#orangeB").click(()=>{
@@ -46,6 +48,7 @@ $(document).ready(()=>{
         $(".orange").show();
         
         $("#orangeB").css("backgroundColor","lightgreen");
+        
     });
 }
  
